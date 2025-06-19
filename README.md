@@ -1,0 +1,2 @@
+# icerikbankasi
+içerik bankası
